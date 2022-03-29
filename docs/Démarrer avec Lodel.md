@@ -1,7 +1,7 @@
 ## ESPACE PUBLIC, ESPACE PRIVÉ
 
 
-Système de publication en ligne intégré, Lodel offre à l’équipe éditoriale du site une interface d’édition lui permettant 
+Système de publication en ligne intégré_, Lodel offre à l’équipe éditoriale du site une interface d’édition lui permettant 
 de créer, modifier, publier les contenus directement dans un navigateur Web. Ainsi, tout site Lodel comporte un espace privé,
 accessible aux personnes autorisées uniquement, avec un login et mot de passe, donnant accès à cette interface.
 
