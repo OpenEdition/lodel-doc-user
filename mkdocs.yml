@@ -3,24 +3,5 @@ site_name: Doc Utilisateur Lodel
 theme:
     name: readthedocs
     
-pages:
-- Introduction: 'index.md'
-
-- UTILISATION:
-  - 'Démarrer avec Lodel.md'
-  - Découvrir l'interface de Lodel: 'Découvrir interface de Lodel.md'
-  - 'Organiser la structure du site.md'
-  - 'Configurer son site.md'
-  - 'Importer un document.md'
-  - 'Gérer un document ou une publication.md'
-  - 'Gérer les documents annexes.md'
-  - Gérer les index et entrées d’index: 'Gérer index.md'
-  - 'Préparer un document avec Word : le stylage.md'
-
-- CONFIGURER LODEL:
-  - 'Configurer-Lodel/Principales notions.md'
-  - 'Configurer-Lodel/Fonctionnalités.md'
-  - 'Configurer-Lodel/Administrateur.md'
-  - 'Configurer-Lodel/Editeur.md'
-
-- 'Glossaire.md'
+nav:
+- 'index.md'
